@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Part
+  - EsquireRobodyUI
+  - ReforgeRobodyUI
+  - GuruRobodyUI
+  - SyphonRobodyUI
+  - ExecutionerRobodyUI
+  - ConstructorRobodyUI
+  - ArmRight
+  - LegRight
+  - ShoulderRight
+  - ArmLeft
+  - Core
+  - LegLeft
+  - Head
+  - FootLeft
+  - FootRight
+  - ShoulderLeft
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PartButtons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3403422859
+    locked: 0
+  - name: Midground
+    uniqueID: 1023573343
+    locked: 0
+  - name: Foreground
+    uniqueID: 2519448793
+    locked: 0
+  - name: PopUp
+    uniqueID: 3607800821
+    locked: 0
